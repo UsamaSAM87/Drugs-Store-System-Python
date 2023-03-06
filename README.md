@@ -4,8 +4,12 @@ start the code with the login file and just change the database name from the fu
 
 
 for windows
+
+
 python login.py
 
 
 for linux/mac os
+
+
 python3 login.py
